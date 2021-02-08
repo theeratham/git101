@@ -2,3 +2,6 @@
 b.txt on main 
 abcd
 // comment
+b.txt on feature2
+abcd
+#comment
